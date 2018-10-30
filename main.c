@@ -95,7 +95,7 @@ int main()
 		case  4: 	
 					exit (0);
 		
-		default :  printf(" this is a invalid cohoice ");
+		default :  printf(" this is a invalid choice ");
 		}
 	}	
 	getch();
